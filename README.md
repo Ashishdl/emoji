@@ -1,2 +1,1 @@
-# emoji
-emoji 
+# my_emojis
